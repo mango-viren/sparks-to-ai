@@ -1,0 +1,12 @@
+{
+  "name": "sparks-to-ai",
+  "version": "1.0.0",
+  "description": "A clean, dark-themed personal website with circuit patterns in the background, built for an electrical engineer documenting their journey with AI tools.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
